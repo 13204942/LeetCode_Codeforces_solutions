@@ -9,6 +9,7 @@ This is personal repository to store solution codes to LeetCode/Codeforces inter
 * [461_hamming_distance](https://leetcode.com/problems/hamming-distance/)
 * [357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 * [342 Power of Four](https://leetcode.com/problems/power-of-four/)
+* [205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 **Codeforces (Problems resolved):**
 * [codeforces_740A](http://codeforces.com/problemset/problem/740/A)
