@@ -11,6 +11,7 @@ This is personal repository to store solution codes to LeetCode/Codeforces inter
 * [342 Power of Four](https://leetcode.com/problems/power-of-four/)
 * [205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 * [202 Happy Number](https://leetcode.com/problems/happy-number/?tab=Description)
+* [83 Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/solutions)
 
 **Codeforces (Problems resolved):**
 * [codeforces_740A](http://codeforces.com/problemset/problem/740/A)
