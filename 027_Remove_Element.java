@@ -55,7 +55,7 @@ public class Solution {
             if (nums[i] == val) {
                 nums[i] = nums[len];
                 len--;
-                i--;
+                i++;
             }
         }
         return len+1;
